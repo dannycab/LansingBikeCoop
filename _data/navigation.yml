@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Vision"
+    url: /
+  - title: "News"
+    url: /news/
+  - title: "Visit"
+    url: /visit/
+  - title: "Learn"
+    url: /visit/classes/
+  - title: "Get Involved"
+    url: "/volunteer/"
+  - title: "Support Us"
+    url: "/support-us/"
